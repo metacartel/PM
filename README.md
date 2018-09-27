@@ -10,7 +10,7 @@
 
 **Project overview**
 
-This project currently contains two repos
+This project currently contains two repositories.
 
 - [PM](https://github.com/Meta-tx/PM) (Project management): This is where the operational and logistical side of the project is handled. All meeting agenda, notes and scheduling + organisational items of interest will be handled here.
 
