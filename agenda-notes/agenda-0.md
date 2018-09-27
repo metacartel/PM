@@ -2,6 +2,8 @@
 
 Original: https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?edit
 
+Updated version: https://github.com/Meta-tx/PM/blob/master/agenda-notes/agenda-0.1.md
+
 Since the creation of ERC-1077/1078, we figured out that we can do somepretty cool things with delegated execution of meta-txs. Many projects have sprung up surrounding this. So far we have had little communication between projects. There is a lot to be gained in doing so as we seem to all face similar challenges and issues. 
 
 Plus there is an opportunity to also explore the possibility of a permissionless p2p meta-tx network which will be srsly fucking cool.
