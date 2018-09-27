@@ -18,9 +18,9 @@ This project currently contains two repositories.
 
 - [Harbour MVP Wiki](https://github.com/Meta-tx/Harbour-MVP/wiki): This is where all technical as well as educational documentation will be kept. 
 
-TODO: Collect library of context that educates people on what we are building about -> lots of blog pots and videos out there
+**Communication & Coordination**
 
-IN-PROGRESS: A list of meta-tx projects in progress working on this
+We currently use telegram to coordinate as a live chat feed. For all meetings / calls that will be announced, they will also be posted up into this PM repository as an open issue. To join the telegram, we invite you to find the link ~ it should be around :) Otherwise ping Pet3rpan on twitter
 
 ## Community Meeting Calls
 
