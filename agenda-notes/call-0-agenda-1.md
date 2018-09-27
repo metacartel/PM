@@ -2,7 +2,7 @@
 
 Original: https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?edit
 
-Updated version: https://github.com/Meta-tx/PM/blob/master/agenda-notes/agenda-0.1.md
+Updated version: https://github.com/Meta-tx/PM/blob/master/agenda-notes/call-0-agenda-2.md
 
 Since the creation of ERC-1077/1078, we figured out that we can do somepretty cool things with delegated execution of meta-txs. Many projects have sprung up surrounding this. So far we have had little communication between projects. There is a lot to be gained in doing so as we seem to all face similar challenges and issues. 
 
