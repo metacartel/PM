@@ -1,5 +1,7 @@
 # Meta-tx Community Call Agenda 0.1
 
+Original: https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?edit
+
 ### Agenda:
 
 - *Quick contextual introduction of this community call*
