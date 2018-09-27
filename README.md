@@ -20,7 +20,7 @@ This project currently contains two repositories.
 
 **Communication & Coordination**
 
-We currently use telegram to coordinate as a live chat feed. For all meetings / calls that will be announced, they will also be posted up into this PM repository as an open issue. To join the telegram, we invite you to find the link ~ it should be around :) Otherwise ping Pet3rpan on twitter
+We currently use telegram to coordinate as a live chat feed. For all meetings / calls that will be announced, they will also be posted up into this PM repository as an open issue. To join the telegram, we invite you to find the link ~ it should be around in one of our agendas :)
 
 ## Community Meeting Calls
 
