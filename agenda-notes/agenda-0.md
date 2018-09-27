@@ -1,6 +1,6 @@
 # MetaTx Crew Agenda - Meeting 0
 
-New agenda: https://hackmd.io/WmHWgQDrSW6cgES9x2HXfw?edit
+Original: https://hackmd.io/-fF2VKIFRzyiWaxVQAh0wA?edit
 
 Since the creation of ERC-1077/1078, we figured out that we can do somepretty cool things with delegated execution of meta-txs. Many projects have sprung up surrounding this. So far we have had little communication between projects. There is a lot to be gained in doing so as we seem to all face similar challenges and issues. 
 
