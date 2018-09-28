@@ -2,7 +2,8 @@
 
 **Goal:** 
 
-- Create a decentralised p2p network of service node servers that recieve and execute meta-txs / meta-transactions 
+- Create a decentralised p2p network of service node servers that recieve and execute meta-txs / meta-transactions.
+- This solution is known as the Layer 2 Tesla Network
 
 **Reasons for p2p decentralisation**
 - Censorship resiliency, meta-txs enable users to execute onchain transactions without gas. This depends on a service node to relay the transaction. If this server goes down, users will lose access of the ability to send transactions.
