@@ -13,6 +13,8 @@
 
 This project currently contains two repositories.
 
+- [Welcome guide](https://github.com/Meta-tx/Harbour-MVP/wiki) Go here if you are a meta-tx noob
+
 - [PM](https://github.com/Meta-tx/PM) (Project management): This is where the operational and logistical side of the project is handled. All meeting agenda, notes and scheduling + organisational items of interest will be handled here.
 
 - [Harbour MVP](https://github.com/Meta-tx/Harbour-MVP): We are currently working on an MVP version of this decentralised meta-tx network. All discussions, code and related work surrounding the MVP will take place on this repository.
