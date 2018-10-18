@@ -30,6 +30,6 @@ We currently use telegram to coordinate as a live chat feed. For all meetings / 
  №  | Date                             | Notes          | Recording            | Summary |
 --- | -------------------------------- | -------------- | -------------------- | -------------------- |
  0 | Thu, September 27, 2018 17:00 CEST | [agenda](https://github.com/Meta-tx/PM/blob/master/agenda-notes/call-0-agenda-1.md) \| [notes](https://github.com/Meta-tx/PM/blob/master/agenda-notes/call-0-notes.md) | [video](https://www.youtube.com/watch?v=tKOtWPopl8Q&t=) | Tldr: In this call we agreed on the next steps to build the decentralised p2p network. -> Share our meta-tx execution standards (meta-tx format, message signing, functions, calls, contract interfaces) -> Post them online (more details found on github.com/meta-tx/harbour-mvp) -> Roundtable at Devcon to create draft standard of everything (analyse asynchronously before hand) | 
- 1 | Thu, October 18, 2018 17:00 CEST | [agenda](https://hackmd.io/hfdlXet-RLiEJGHV4gylZg?edit) \| [video](https://youtu.be/x1IwRQStvrQ) ||
+ 1 | Thu, October 18, 2018 17:00 CEST | [agenda](https://hackmd.io/hfdlXet-RLiEJGHV4gylZg?edit) \|  |[video](https://youtu.be/x1IwRQStvrQ)|
 
 
