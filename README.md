@@ -32,7 +32,7 @@ We use gitter, telegram and discord.
 [To get involved learn more here (scroll to bottom)](https://github.com/Meta-tx/Harbour-MVP/wiki)
 
 
-## Community Meeting Calls
+## Community Meeting Calls / Progress so far
 
  №  | Date                             | Notes          | Recording            | Summary |
 --- | -------------------------------- | -------------- | -------------------- | -------------------- |
