@@ -1,3 +1,7 @@
+## If you are new here go to the wiki -> [Here](https://github.com/Meta-tx/Harbour-MVP/wiki)
+
+***
+
 # Project Command Room
 
 **Goal:** 
@@ -23,7 +27,10 @@ This project currently contains two repositories.
 
 **Communication & Coordination**
 
-We currently use telegram to coordinate as a live chat feed. For all meetings / calls that will be announced, they will also be posted up into this PM repository as an open issue. To join the telegram, we invite you to find the link ~ it should be around in one of our agendas :)
+We use gitter, telegram and discord.
+
+[To get involved learn more here (scroll to bottom)](https://github.com/Meta-tx/Harbour-MVP/wiki)
+
 
 ## Community Meeting Calls
 
